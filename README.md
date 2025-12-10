@@ -118,5 +118,5 @@ You can customize this based on what you saw in your final report:
 
 - `data/` – Raw or sample dataset.
 - `pbix/` – Power BI report file.  
-- `images/` – Screenshots of the dashboard pages.  
+- `images/` – (https://github.com/253425aditya/Hospital-Emergency-Room-Dashboard/blob/main/Snapshot%20Of%20DashBoard.png).  
 - `README.md` – Project documentation (this file).
