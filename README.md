@@ -117,6 +117,9 @@ You can customize this based on what you saw in your final report:
 ## Project Structure
 
 - `data/` – Raw or sample dataset.
-- `pbix/` – Power BI report file.  
-- `images/` – Screenshots of the dashboard pages.(https://github.com/253425aditya/Hospital-Emergency-Room-Dashboard/blob/main/Snapshot%20Of%20DashBoard.png).  
-- `README.md` – Project documentation (this file).
+- `pbix/` – Power BI report file.
+- `README.md` – Project documentation (this file). 
+- `images/` – Screenshots of the dashboard pages.
+
+<img width="1187" height="721" alt="Snapshot Of DashBoard" src="https://github.com/user-attachments/assets/64612e85-4c0b-4221-a4cb-cd681f128812" />
+
